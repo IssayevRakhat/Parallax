@@ -1,0 +1,1 @@
+Just simple laborotory work of Parallax consulting organisation in html course.
